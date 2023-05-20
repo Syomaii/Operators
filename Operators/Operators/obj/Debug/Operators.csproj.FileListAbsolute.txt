@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\Operators\Operators\bin\Debug\Operators.exe.config
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\Operators\Operators\bin\Debug\Operators.exe
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\Operators\Operators\bin\Debug\Operators.pdb
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\Operators\Operators\obj\Debug\Operators.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\Operators\Operators\obj\Debug\Operators.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\Operators\Operators\obj\Debug\Operators.Form1.resources
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\Operators\Operators\obj\Debug\Operators.Properties.Resources.resources
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\Operators\Operators\obj\Debug\Operators.csproj.GenerateResource.cache
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\Operators\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\Operators\Operators\obj\Debug\Operators.exe
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\Operators\Operators\obj\Debug\Operators.pdb
